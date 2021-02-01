@@ -1,0 +1,10 @@
+body {
+  background-color: #cecece;
+}
+.container {
+  margin: 20px auto;
+  width: 1000px;
+}
+.header {
+  text-align: center;
+}
